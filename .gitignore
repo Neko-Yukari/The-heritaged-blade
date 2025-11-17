@@ -1,0 +1,30 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCacheBoot.ddc
+*.VC.db
+.vs/
+*.suo
+*.opensdf
+*.sdf
+*.pdb
+*.iobj
+*.ipdb
+
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts
+*.target
+*.obj
+*.log
+
+# Keep these (do NOT ignore)
+#!Config/
+#!Content/
+#!Source/
+#!Plugins/
+#!Build/
